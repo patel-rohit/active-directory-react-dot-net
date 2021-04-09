@@ -1,0 +1,31 @@
+﻿a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+.pl-5{
+  padding-left: 5px !important;
+}
+.pr-5{
+  padding-right: 5px !important;
+}
+
+.ml-5{
+  margin-left: 5px !important;
+}
+.mr-5{
+  margin-right: 5px !important;
+}
